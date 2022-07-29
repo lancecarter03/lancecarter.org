@@ -1263,3 +1263,10 @@ footer .credits a {
     bottom: 15px;
   }
 }
+
+@media only screen and (max-device-width: 1366px)
+{
+  .footerWithImage {
+    background-attachment: scroll;
+  }
+}
