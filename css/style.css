@@ -611,7 +611,7 @@ a:hover {
   position: absolute;
 }
 
-.intro .overlay-itro {
+.intro .overlay-intro {
   background-color: rgba(0, 0, 0, 0.6);
   position: absolute;
   top: 0;
@@ -1266,7 +1266,7 @@ footer .credits a {
 
 @media only screen and (max-device-width: 1366px)
 {
-  .footerWithImage {
+  .bg-me {
     background-attachment: scroll;
   }
 }
