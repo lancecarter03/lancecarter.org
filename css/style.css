@@ -928,7 +928,7 @@ a:hover {
   padding: 2rem;
   background-color: #fff;
   margin-bottom: 3rem;
-  height: 100%;
+  height: 100% !important;
 }
 
 .blog-wrapper .article-title {
